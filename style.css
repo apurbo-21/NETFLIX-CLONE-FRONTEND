@@ -109,7 +109,7 @@ main {
 .mainform input {
     font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
     font-weight: 400;
-    size: 16px;
+    font-size: 16px;
     padding: 19px 100px 16px 15px;
     background-color: rgba(0, 0, 0, 0.7);
     border: 1px solid rgba(255, 255, 255, 0.5);
